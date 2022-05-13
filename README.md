@@ -1,8 +1,8 @@
-- 👍 OLA; MEU NOME @JULIA_IROHA
-- 🌱 MEU EMAIL DE CONTATO:JULIA.ALMEIDA.GOES@ESCOLA.PR.GOV.BR
-- ✨ EU ESTOU INTERESSADA EMAPRENDER NOVAS LINGUAGENS
-- 💞️ EU ESTOU APRENDENDO A PROGRAMAR RECENTEMENTE 
-- 📫 How to reach me ...
+- 👌🏻 Olá, meu nome é @julia_iroha
+- 📎 Meu e-mail de contato é julia.almeida.goes@escola.pr.gov.br 
+- ❕ Eu estou interessada em aprender novas linguagens
+- 💡 Estou aprendendo a programar recentemente no Java script e scratch
+-  How to reach me ...
 
 <!---
 juliairoha/juliairoha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
